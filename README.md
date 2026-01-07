@@ -1,65 +1,76 @@
-<!-- =================== ANIMATED HEADER =================== -->
+<!-- ===================== ANIMATED HERO SECTION ===================== -->
 
 <h1 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=40&pause=999999&color=00E5FF&center=true&vCenter=true&width=900&lines=Abdul+Aziz+Khan" 
-    alt="Abdul Aziz Khan" />
+  <img src="https://readme-typing-svg.demolab.com?
+font=Montserrat
+&weight=800
+&size=40
+&pause=1500
+&color=FFD700
+&center=true
+&vCenter=true
+&width=900
+&lines=Abdul+Aziz+Khan;Web+Developer;Python%2C+Django+Developer"
+  />
 </h1>
 
-<h2 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=999999&color=FFD700&center=true&vCenter=true&width=700&lines=Web+Developer" 
-    alt="Web Developer" />
-</h2>
-
-<h3 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=999999&color=7CFF00&center=true&vCenter=true&width=700&lines=Python+%7C+Django" 
-    alt="Python Django" />
-</h3>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7CFF00&height=3&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:FF8C00,100:00C853&height=4" />
 </p>
 
-<!-- =================== SOCIAL LINKS =================== -->
+<!-- ===================== SOCIAL SECTION ===================== -->
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdulaziz2444)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulazizofficial)
+<h2 align="center">🌐 Connect With Me</h2>
 
----
-
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abdulazizsofficial&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=abdulazizsofficial&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizsofficial&theme=dark&layout=compact)
+<p align="center">
+  <a href="https://facebook.com/abdulaziz2444">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/abdulazizofficial">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abdulazizsofficial&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+<!-- ===================== TECH STACK ===================== -->
+
+<h2 align="center">💻 Tech Arsenal</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,html,css&theme=dark" />
+</p>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ===================== GITHUB STATS ===================== -->
+
+<h2 align="center">📊 GitHub Performance</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulazizsofficial&theme=dark&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=abdulazizsofficial&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizsofficial&theme=dark&hide_border=true&layout=compact" />
+</p>
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abdulazizsofficial&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- ===================== QUOTE ===================== -->
+
+<h2 align="center">✍️ Daily Dev Inspiration</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=abdulazizsofficial&icon=0&color=0" />
+  <img src="https://visitcount.itsvg.in/api?id=abdulazizsofficial&icon=5&color=12" />
 </p>
