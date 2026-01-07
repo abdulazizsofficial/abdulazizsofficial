@@ -6,12 +6,6 @@
     alt="Abdul Aziz Khan" />
 </h1>
 
-<h2 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=FF8C00&center=true&vCenter=true&width=700&lines=Web+Developer" 
-    alt="Web Developer" />
-</h2>
-
 <h3 align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1400&color=00E676&center=true&vCenter=true&width=700&lines=Python+%7C+Django+Developer" 
