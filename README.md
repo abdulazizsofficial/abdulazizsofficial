@@ -33,41 +33,38 @@
 
 ---
 
-<!-- =================== TECH STACK =================== -->
-
-<h2 align="center">💻 Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css&theme=dark" />
-</p>
-
----
-
 <!-- =================== GITHUB STATS =================== -->
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulazizsofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=abdulazizsofficial&theme=dark&hide_border=false"
+    alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=abdulazizsofficial&theme=dark&hide_border=false" />
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=abdulazizsofficial&theme=dark&hide_border=false"
+    alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizsofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizsofficial&theme=dark&layout=compact&hide_border=false"
+    alt="Top Languages" />
 </p>
 
----
+<hr style="border: 1px solid #333;" />
 
 <!-- =================== DEV QUOTE =================== -->
 
 <h2 align="center">✍️ Random Dev Quote</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+    alt="Dev Quote" />
 </p>
-
 
 
