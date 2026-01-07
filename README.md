@@ -40,13 +40,13 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=abdulazizsofficial&theme=dark&hide_border=false"
-    alt="GitHub Stats" />
+     />
 </p>
 
 <p align="center">
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=abdulazizsofficial&theme=dark&hide_border=false"
-    alt="GitHub Streak" />
+    />
 </p>
 
 <p align="center">
