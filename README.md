@@ -52,7 +52,7 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizsofficial&theme=dark&layout=compact&hide_border=false"
-    alt="Top Languages" />
+     />
 </p>
 
 <hr style="border: 1px solid #333;" />
