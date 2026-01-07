@@ -38,21 +38,9 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=abdulazizsofficial&theme=dark&hide_border=false"
-     />
-</p>
-
-<p align="center">
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=abdulazizsofficial&theme=dark&hide_border=false"
-    />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizsofficial&theme=dark&layout=compact&hide_border=false"
-     />
+![](https://github-readme-stats.vercel.app/api?username=abdulazizsofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=abdulazizsofficial&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizsofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
 
 <hr style="border: 1px solid #333;" />
