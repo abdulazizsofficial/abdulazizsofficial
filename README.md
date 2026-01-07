@@ -1,17 +1,28 @@
-## Hi there 👋
-
-Here are some ideas to get you started:
-
+<!-- =================== ANIMATED HEADER =================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=36&pause=600&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Abdul+Aziz+Khan;Web+Developer" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=40&pause=999999&color=00E5FF&center=true&vCenter=true&width=900&lines=Abdul+Aziz+Khan" 
+    alt="Abdul Aziz Khan" />
 </h1>
 
+<h2 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=999999&color=FFD700&center=true&vCenter=true&width=700&lines=Web+Developer" 
+    alt="Web Developer" />
+</h2>
+
+<h3 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=999999&color=7CFF00&center=true&vCenter=true&width=700&lines=Python+%7C+Django" 
+    alt="Python Django" />
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=AAAAAA&center=true&vCenter=true&width=700&lines=Python+%7C+Django+Developer;Building+Modern+Web+Applications" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7CFF00&height=3&section=header" />
 </p>
 
----
+<!-- =================== SOCIAL LINKS =================== -->
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdulaziz2444)
@@ -28,11 +39,9 @@ Here are some ideas to get you started:
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abdulazizsofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
+![](https://github-readme-stats.vercel.app/api?username=abdulazizsofficial&theme=dark&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=abdulazizsofficial&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizsofficial&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizsofficial&theme=dark&layout=compact)
 
 ---
 
@@ -51,7 +60,6 @@ Here are some ideas to get you started:
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=abdulazizsofficial&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=abdulazizsofficial&icon=0&color=0" />
+</p>
