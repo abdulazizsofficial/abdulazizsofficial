@@ -43,13 +43,31 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abdulazizsofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abdulazizsofficial&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizsofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- =================== GITHUB STATS =================== -->
 
+<h2 align="center">📊 GitHub Stats</h2>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulazizsofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=abdulazizsofficial&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizsofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+---
+
+<!-- =================== DEV QUOTE =================== -->
+
+<h2 align="center">✍️ Random Dev Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
 
 
