@@ -9,7 +9,7 @@
 <!-- =================== HEADER =================== -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=44&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Abdul+Aziz+Khan" alt="Abdul Aziz Khan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=44&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Abdul+Aziz+Khan" alt="Abdul Aziz Khan" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1400&color=00E676&center=true&vCenter=true&width=700&lines=Python+%7C+Django+Developer" alt="Python Django Developer" />
 </div>
