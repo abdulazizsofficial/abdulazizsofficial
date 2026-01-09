@@ -41,7 +41,7 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" width="100%" />
+      <img src="https://github.com/user-attachments/assets/0caee9a6-fc7e-4087-b94a-e4be30aeb73a3" width="70%" />
     </td>
   </tr>
 </table>
