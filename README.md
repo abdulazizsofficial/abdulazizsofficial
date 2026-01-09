@@ -61,13 +61,6 @@
 
 <hr />
 
-
-<!-- ===================== Beautiful  GIFS ===================== -->
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWum8uLia8JRC/giphy.gif" width="60" />
-</div>
-
 ### 🐍 Contribution Journey
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ad1tyaPatel/Ad1tyaPatel/output/snake.svg" width="90%" alt="Snake animation" />
