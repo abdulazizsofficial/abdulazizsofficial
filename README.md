@@ -1,52 +1,58 @@
-### 📊 GitHub Stats
+<!-- =================== PREMIUM ANIMATED HEADER =================== -->
 
-<div align="center">
-  <img width="400" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=arifasultana76&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="380" src="https://github-readme-stats-salesp07.vercel.app/api?username=arifasultana76&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
-  <br/><br>
-  <img width="350" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=arifasultana76&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/>
-</div>
-<br/><br/>  
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=44&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Abdul+Aziz+Khan" 
+    alt="Abdul Aziz Khan" />
+</h1>
+
+<h3 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1400&color=00E676&center=true&vCenter=true&width=700&lines=Python+%7C+Django+Developer" 
+    alt="Python Django Developer" />
+</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:FF8C00,100:00E676&height=4" />
+</p>
+
+---
+
+<!-- =================== SOCIAL LINKS =================== -->
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://facebook.com/abdulaziz2444">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/abdulazizofficial">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- =================== GITHUB STATS =================== -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulazizsofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=abdulazizsofficial&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizsofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 
-### 🌌 Tech Motion Zone
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VtZWQ2d3czdThtbTNqdDV1MnE1MWw0NmJmdjdzNm1qbmt5eTB4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uVhWw4M2puM4bUJgM1/giphy.gif" width="400" />
-</div>
+<hr style="border: 1px solid #333;" />
 
-<hr/>
+<!-- =================== DEV QUOTE =================== -->
 
-<h3 align="center">⭐ If you like my work, don't forget to star my repositories!</h3>
+<h2 align="center">✍️ Random Dev Quote</h2>
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-### 🌍 Languages
-- English: Fluent in reading, writing, and speaking
-- Bangla: Native Language
+<p align="center">
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+    alt="Dev Quote" />
+</p>
 
 
-### 🎯 Interests
-
-📂 I enjoy contributing to open-source projects <br>
-✈️ Traveling <br>
-🎤 Public Speaking <br>
-🗓️ Hosting Events <br>
-📖 Reading <br>
-📝 Writing <br>
-🤝 Volunteering
-
-###
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/arifasultana"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arifasultana" /></a></p><br><br>
-
-###
-
-<div align="center">
-  <img src="https://wakatime.com/badge/user/8c3465f1-37b3-4e43-8126-1adea6b98d89.svg" alt="WakaTime Profile Views">
-</div>
-
-<div align="center">Made with ❤️ from Bangladesh by Arifa Sultana</div>
