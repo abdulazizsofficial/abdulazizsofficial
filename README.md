@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Backend Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="500" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulazizsofficial&label=Profile%20views&color=0e75b6&style=flat" alt="abdulazizsofficial" /> </p>
-
+<img src="https://raw.githubusercontent.com/Ad1tyaPatel/Ad1tyaPatel/output/snake.svg" width = 1500 alt="Snake animation" />
 - 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **abdulazizsofficial@gmail.com**
