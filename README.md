@@ -1,22 +1,3 @@
-<!-- =================== PREMIUM ANIMATED HEADER =================== -->
-
-<h1 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=44&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Abdul+Aziz+Khan" 
-    alt="Abdul Aziz Khan" />
-</h1>
-
-<h3 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1400&color=00E676&center=true&vCenter=true&width=700&lines=Python+%7C+Django+Developer" 
-    alt="Python Django Developer" />
-</h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:FF8C00,100:00E676&height=4" />
-</p>
-
----
 
 <!-- =================== SOCIAL LINKS =================== -->
 
@@ -31,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdulazizofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulazizofficial/" height="30" width="40" /></a>
-<a href="https://fb.com/abdulazizsofficials/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdulazizsofficials/" height="30" width="40" /></a>
-<a href="https://instagram.com/abdulazizofficials/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdulazizofficials/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdulazizofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulazizofficial" height="30" width="40" /></a>
+<a href="https://fb.com/abdulazizsofficials" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdulazizsofficials" height="30" width="40" /></a>
+<a href="https://instagram.com/abdulazizofficials" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdulazizofficials" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,5 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulazizsofficial&show_icons=true&locale=en" alt="abdulazizsofficial" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulazizsofficial&" alt="abdulazizsofficial" /></p>
-
 
