@@ -1,6 +1,7 @@
 
-<!-- =================== SOCIAL LINKS =================== -->
 
+<!-- =================== SOCIAL LINKS =================== -->
+<img align="right" alt="Coding" width="500" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 <h1 align="center">Hi 👋, I'm Abdul Aziz Khan</h1>
 <h3 align="center">A passionate Backend Developer from Bangladesh</h3>
 
