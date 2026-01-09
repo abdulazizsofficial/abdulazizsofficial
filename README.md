@@ -1,7 +1,7 @@
 <!-- ===================GIF Picture =================== -->
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600" alt="Cool Coding Animation" />
+  <img src="https://github.com/user-attachments/assets/4fc949a5-f977-4777-868b-2b2c37dfa448" width="800" alt="Cool Coding Animation" />
 </div>
 
 <br/>
