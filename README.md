@@ -1,10 +1,10 @@
 
 
 <!-- =================== SOCIAL LINKS =================== -->
-<img align="right" alt="Coding" width="500" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
+<img align="right" alt="Coding" width="500" src="https://share.google/images/X9YSiyaFFMtSAQPqq">
 <h1 align="center">Hi 👋, I'm Abdul Aziz Khan</h1>
 <h3 align="center">A passionate Backend Developer from Bangladesh</h3>
-
+<img align="right" alt="Coding" width="500" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulazizsofficial&label=Profile%20views&color=0e75b6&style=flat" alt="abdulazizsofficial" /> </p>
 
 - 🌱 I’m currently learning **Django**
