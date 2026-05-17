@@ -1,133 +1,98 @@
-<!-- ============================================================
-     Abdul Aziz Khan — GitHub Profile README
-     Dark · Minimal · Developer-grade
-     ============================================================ -->
+<!-- ================= HEADER ================= -->
 
-<div align="center">
+<h1 align="center">Abdul Aziz Khan</h1>
+<p align="center">
+  Backend Engineer • Django • REST APIs • React
+</p>
 
-<!-- STATUS BADGE -->
-<img src="https://img.shields.io/badge/status-available%20for%20collaboration-00e676?style=flat-square&labelColor=0a0a0f&color=00e676" />
-
-</div>
-
-<br/>
-
-<!-- ── HEADER ──────────────────────────────────────────────── -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=52&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Abdul+Aziz+Khan" alt="Abdul Aziz Khan" />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=00E5FF&center=true&vCenter=true&width=700&lines=%2F%2F+Backend+Engineer+%E2%86%92+Python+%C2%B7+Django;%2F%2F+Building+scalable+REST+APIs;%2F%2F+Open+to+open-source+collaboration" alt="Roles" />
-</div>
-
-<br/>
-
-<!-- ── METRICS ROW ─────────────────────────────────────────── -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulazizsofficial&label=Profile+Views&color=00e5ff&style=flat-square&labelColor=0d0d18" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/abdulazizsofficial?label=Followers&style=flat-square&color=00e676&labelColor=0d0d18" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-b088ff?style=flat-square&labelColor=0d0d18" />
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-00c853?style=flat-square" />
+  <img src="https://img.shields.io/github/followers/abdulazizsofficial?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=abdulazizsofficial&style=flat-square" />
+</p>
 
 ---
 
-<!-- ── ABOUT ───────────────────────────────────────────────── -->
+## About Me
 
-```python
-class AbdulAzizKhan:
-    role       = "Backend Engineer"
-    stack      = ["Python", "Django", "Django REST Framework"]
-    learning   = ["Advanced Django patterns", "Async views", "API design"]
-    open_to    = "Open-source collaboration & backend projects"
-    contact    = "abdulazizsofficial@gmail.com"
-    based_in   = "Remote"
-```
+I build **scalable backend systems and REST APIs** using Django and Python.  
+Focused on writing clean, maintainable code and solving real-world problems.
 
-<br/>
-
-<!-- ── SOCIAL LINKS ────────────────────────────────────────── -->
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulazizofficial)
-[![Email](https://img.shields.io/badge/Email-00e676?style=for-the-badge&logo=gmail&logoColor=black)](mailto:abdulazizsofficial@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/abdulazizsofficials)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abdulazizofficials)
-
-</div>
+- Strong in backend architecture & API design  
+- Experience building full-stack apps with React  
+- Comfortable working with databases and performance optimization  
+- Open to collaboration and real-world projects  
 
 ---
 
-<!-- ── STACK & TOOLS ───────────────────────────────────────── -->
+## Tech Stack
 
-### `// stack & tools`
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-ff1709?style=flat-square&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Django REST](https://img.shields.io/badge/DRF-ff1709?style=flat-square)
 
-**Tools & Infra**
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
----
-
-<!-- ── GITHUB STATS ─────────────────────────────────────────── -->
-
-### `// github stats`
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abdulazizsofficial&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d18&title_color=00e5ff&icon_color=00e676&text_color=8888aa&ring_color=00e5ff" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizsofficial&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d18&title_color=00e5ff&text_color=8888aa" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdulazizsofficial&theme=github-dark-blue&hide_border=true&background=0D0D18&ring=00E5FF&fire=00E676&currStreakLabel=FFFFFF&sideLabels=8888aa&dates=4a4a6a" />
-</div>
+### Database & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square)
 
 ---
 
-<!-- ── CURRENTLY ───────────────────────────────────────────── -->
+## Featured Projects
 
-### `// currently`
-
-| | Focus |
-|---|---|
-| 📖 **Learning** | Advanced Django · REST Framework · Async Python |
-| 🚀 **Building** | Scalable backend APIs & web applications |
-| 🤝 **Open to** | Open source collaboration & backend projects |
-| 📬 **Contact** | [abdulazizsofficial@gmail.com](mailto:abdulazizsofficial@gmail.com) |
+### 1. Job Portal API
+REST API for job posting and applications with authentication and filtering.  
+**Tech:** Django, DRF, PostgreSQL  
+🔗 https://github.com/yourusername/job-portal
 
 ---
 
-<!-- ── CONTRIBUTION SNAKE ──────────────────────────────────── -->
-
-### `// contribution journey`
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abdulazizsofficial/abdulazizsofficial/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake" />
-</div>
-
-> _To enable the snake animation, add a GitHub Actions workflow to your profile repo that generates the SVG on a schedule. See [Platane/snk](https://github.com/Platane/snk) for setup._
+### 2. Hospital Management System
+Backend system for managing patients, doctors, and appointments.  
+**Tech:** Django, SQLite  
+🔗 https://github.com/yourusername/hospital-system
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=3000&color=2e2e4a&center=true&vCenter=true&width=500&lines=abdulazizsofficial+%C2%B7+github.com+%C2%B7+built+with+precision" />
-</div>
+### 3. E-commerce Backend
+Scalable backend with product management, cart, and order system.  
+**Tech:** Django, DRF  
+🔗 https://github.com/yourusername/ecommerce-api
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=abdulazizsofficial&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizsofficial&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## Contact
+
+- Email: abdulazizsofficial@gmail.com  
+- LinkedIn: https://linkedin.com/in/abdulazizofficial  
+- Facebook: https://fb.com/abdulazizsofficials  
+
+---
+
+## Currently
+
+- Building backend-heavy applications  
+- Improving Django architecture & API performance  
+- Open to freelance & remote backend roles  
+
+---
+
+## Signature
+
+> Clean code. Scalable systems. Real-world impact.
