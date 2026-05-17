@@ -5,7 +5,7 @@
 
 <div align="center">
   <h1>Abdul Aziz Khan</h1>
-  <p><strong>Full-Stack Engineer specialized in Django ecosystem & React applications</strong></p>
+  <p><strong>Backend  Engineer specialized in Django and Django REST framework</strong></p>
 </div>
 
 <div align="center">
