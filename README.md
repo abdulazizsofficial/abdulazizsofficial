@@ -53,44 +53,6 @@ I am a Backend Engineer dedicated to building high-performance, secure, and scal
 
 ---
 
-## 📂 Featured Projects
-
-#### ⚡ [Project Name 1](https://github.com/abdulazizsofficial) — Scalable RESTful API Engine
-*   Designed a highly scalable backend infrastructure using **Django REST Framework**, processing thousands of relationships with optimized database indexing.
-*   Implemented strict throttling, custom middleware handles, and JWT authentication layers to protect sensitive business logic.
-*   *Tech stack: Python, Django, DRF, PostgreSQL, Git*
-
-#### 💻 [Project Name 2](https://github.com/abdulazizsofficial) — Data-Driven Enterprise Application
-*   Built an end-to-end web platform featuring a high-concurrency **Django** backend coupled with an interactive **React** administrative dashboard.
-*   Optimized backend ORM queries, reducing complex endpoint response times by over 40%.
-*   *Tech stack: Python, Django, React, SQLite, Bootstrap*
-
----
-
-## 📈 GitHub Insights
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdulazizsofficial&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d18&title_color=00e5ff&icon_color=00e676&text_color=8888aa&ring_color=00e5ff" alt="Stats" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizsofficial&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d18&title_color=00e5ff&text_color=8888aa" alt="Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdulazizsofficial&theme=github-dark-blue&hide_border=true&background=0D0D18&ring=00E5FF&fire=00E676&currStreakLabel=FFFFFF&sideLabels=8888aa&dates=4a4a6a" alt="Streak" />
-</div>
-
----
-
-## 🐍 Git Commit Engine
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abdulazizsofficial/abdulazizsofficial/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake" />
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I am open to backend engineering roles, client contracts, and performance optimization consulting. Let's build something secure and scalable.
