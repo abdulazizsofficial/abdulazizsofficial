@@ -1,11 +1,11 @@
 <!-- ============================================================
      Abdul Aziz Khan — Premium GitHub Profile
-     Modern · High-Impact · Full-Stack Engineer
+     Modern · High-Impact · Backend Engineer
      ============================================================ -->
 
 <div align="center">
   <h1>Abdul Aziz Khan</h1>
-  <p><strong>Backend  Engineer specialized in Django and Django REST framework</strong></p>
+  <p><strong>Backend Engineer specializing in Python, Django, and Scalable API Architectures</strong></p>
 </div>
 
 <div align="center">
@@ -22,22 +22,16 @@
 
 ## 🚀 About Me
 
-I am a robust Full-Stack Engineer bridging the gap between high-performance backends and intuitive user interfaces. With a strong foundation in **Python and Django**, paired with dynamic frontend development using **React**, I design, build, and deploy production-ready web applications that scale.
+I am a Backend Engineer dedicated to building high-performance, secure, and scalable server-side applications. My core expertise lies within the **Python ecosystem**, specifically architecting robust systems using **Django** and **Django REST Framework (DRF)**. While my passion is deep in backend engineering, I leverage **React** to bridge the gap between heavy data layers and intuitive user interfaces.
 
-*   **Backend Expertise:** Architectural design, building scalable RESTful APIs with Django REST Framework, database optimization, and secure business logic.
-*   **Frontend Craft:** Architecting component-driven interfaces with React, state management, and responsive layouts.
-*   **Engineering Philosophy:** Clean code, strong type safety, writing comprehensive tests, and keeping performance overhead low.
+*   **Backend Architecture:** Expert in designing relational database schemas, optimizing complex SQL queries, implementing secure JWT/OAuth2 authentication, and crafting clean RESTful APIs.
+*   **Performance Optimization:** Focused on reducing endpoint latency, writing dry/reusable business logic, database indexing, and proper memory management.
+*   **Frontend as a Tool:** Fluent in React and modern JavaScript to seamlessly integrate front-end consumption with robust back-end APIs without friction.
+*   **Engineering Philosophy:** Clean code architecture, strict adherence to PEP 8 standards, writing comprehensive unit tests, and designing for horizontal scale.
 
 ---
 
 ## 🛠️ Tech Stack & Ecosystem
-
-### Frontend Engineering
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### Backend Architecture
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -50,19 +44,26 @@ I am a robust Full-Stack Engineer bridging the gap between high-performance back
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+### Frontend Engineering
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
 ---
 
 ## 📂 Featured Projects
 
-#### 💻 [Project Name 1](https://github.com/abdulazizsofficial) — Full-Stack Web Application
-*   Engineered a high-performance single page application utilizing **React** for a seamless state-driven frontend and **Django REST Framework** for the backend engine.
-*   Optimized database queries in **PostgreSQL**, reducing API endpoint latency by 40%.
-*   *Tech stack: React, Python, Django, DRF, PostgreSQL*
+#### ⚡ [Project Name 1](https://github.com/abdulazizsofficial) — Scalable RESTful API Engine
+*   Designed a highly scalable backend infrastructure using **Django REST Framework**, processing thousands of relationships with optimized database indexing.
+*   Implemented strict throttling, custom middleware handles, and JWT authentication layers to protect sensitive business logic.
+*   *Tech stack: Python, Django, DRF, PostgreSQL, Git*
 
-#### ⚡ [Project Name 2](https://github.com/abdulazizsofficial) — Scalable RESTful API Service
-*   Developed a robust API infrastructure handling complex relationship structures, complete with JWT authentication and throttle management.
-*   Documented end-to-end endpoints using Swagger/OpenAPI specifications for simple frontend onboarding.
-*   *Tech stack: Python, Django, SQLite, Git*
+#### 💻 [Project Name 2](https://github.com/abdulazizsofficial) — Data-Driven Enterprise Application
+*   Built an end-to-end web platform featuring a high-concurrency **Django** backend coupled with an interactive **React** administrative dashboard.
+*   Optimized backend ORM queries, reducing complex endpoint response times by over 40%.
+*   *Tech stack: Python, Django, React, SQLite, Bootstrap*
 
 ---
 
@@ -92,7 +93,7 @@ I am a robust Full-Stack Engineer bridging the gap between high-performance back
 
 ## 🤝 Let's Connect
 
-I am open to engineering roles, client contracts, and high-impact open-source initiatives. Let's discuss how I can bring value to your engineering team.
+I am open to backend engineering roles, client contracts, and performance optimization consulting. Let's build something secure and scalable.
 
 <div align="left">
   <a href="https://linkedin.com/in/abdulazizofficial" target="_blank">
